@@ -3,7 +3,7 @@
 
 ## Project Overview
 This project demonstrates the creation of a beginner cybersecurity home lab using VirtualBox.  
-The lab is to simulate a small internal network to practice SOC monitoring, penetration testing, and incident detection.
+The lab is to create a small private network to practice SOC monitoring, penetration testing, and incident detection.
 
 ---
 
@@ -71,6 +71,6 @@ b] Ping from Kali → Ubuntu
 ---
 
 ## Result
-All virtual machines successfully communicated with each other.  
+virtual machines successfully Connected with each other and are ready to Communicate.  
 The lab network is ready for penetration testing and SOC monitoring labs.
 
